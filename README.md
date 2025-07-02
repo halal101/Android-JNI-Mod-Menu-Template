@@ -41,8 +41,8 @@ Edit
 1. **Clone the Repo:**
 
 bash
-git clone https://github.com/YOUR_USERNAME/HILL_HUB.git
-cd HILL_HUB
+git clone https://github.com/halal101/Android-JNI-Mod-Menu-Template.git
+cd (file location)
 Open in Android Studio:
 
 Ensure NDK + CMake are installed
